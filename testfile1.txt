@@ -23,6 +23,6 @@ if true
 puts 'Ya elate pilenca pri batko'
 puts 'Hello from the other side'
 puts 'Ich will...'
-puts 'Highway to hell'
+puts 'We're on a Highway to hell'
 puts 'Back in black'
 
