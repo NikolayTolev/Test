@@ -26,3 +26,5 @@ puts 'Ich will...'
 puts 'We're on a Highway to hell'
 puts 'Back in black'
 
+puts 'Hello from the other side'
+
