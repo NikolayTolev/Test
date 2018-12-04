@@ -7,3 +7,4 @@ puts Blah.get
 puts true Blah.get
 
 puts 'Hello from the other side'
+puts 'Highway to hell'
