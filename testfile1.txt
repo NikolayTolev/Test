@@ -8,4 +8,3 @@ puts true Blah.get
 
 puts 'Ya elate pilenca pri batko'
 puts 'Hello from the other side'
->>>>>>> training-feature2
