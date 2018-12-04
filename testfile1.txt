@@ -5,3 +5,5 @@ Blah blah
 puts Blah.get
 
 puts true Blah.get
+
+puts 'Ya elate pilenca pri batko'
