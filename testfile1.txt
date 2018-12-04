@@ -6,7 +6,6 @@ puts Blah.get
 
 puts true Blah.get
 
-<<<<<<< HEAD
 puts 'Ya elate pilenca pri batko'
 puts 'Hello from the other side'
 puts 'Ich will...'
