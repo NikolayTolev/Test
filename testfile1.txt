@@ -26,5 +26,3 @@ puts 'Ich will...'
 puts 'Highway to hell'
 puts 'Back in black'
 
-if true
-	puts 'Rock\'n\'Roll'
