@@ -2,14 +2,5 @@ Blah blah
 	def get
 		'Blah'
 		
-puts Blah.get
 
 puts true Blah.get
-
-puts 'Ya elate pilenca pri batko'
-puts 'Hello from the other side'
-puts 'Ich will...'
-puts 'Highway to hell'
-puts 'Back in black'
-if true
-	puts 'Rock\'n\'Roll'
