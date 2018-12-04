@@ -1,8 +1,14 @@
 Blah blah
 	def get
 		'Blah'
-		
 
 puts true Blah.get
 puts 'Nazad, nazad, mome Kalino'
 
+	def get_uppercase
+		'BLAH'
+	
+puts Blah.get
+
+if true
+	puts true Blah.get
