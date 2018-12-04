@@ -6,3 +6,8 @@ puts Blah.get
 
 if true
 	puts true Blah.get
+	
+	def set
+		throw exception('setting not allowed')
+	
+puts Blah.get
