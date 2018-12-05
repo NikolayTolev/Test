@@ -16,6 +16,7 @@ puts 'I stand alone'
 		'BLAH'
 	
 puts Blah.get
+puts HaHa.laugh()
 
 if true
 	puts true Blah.get
