@@ -4,6 +4,7 @@ Blah blah
 
 puts true Blah.get
 puts 'Nazad, nazad, mome Kalino'
+puts 'Vengeful one'
 
 	def get_uppercase
 		'BLAH'
