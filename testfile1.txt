@@ -7,6 +7,9 @@ puts 'Nazad, nazad, mome Kalino'
 puts 'Vengeful one'
 puts 'I stand alone'
 
+	def get_time
+		'31.12.2018'
+
 	def get_uppercase
 		'BLAH'
 	
