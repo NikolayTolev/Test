@@ -5,6 +5,8 @@ Blah blah
 puts true Blah.get
 puts 'Nazad, nazad, mome Kalino'
 puts 'Vengeful one'
+puts 'Tate mi kaza, che shte mi kupi kolelo ama drug put!'
+puts 'Kon bob qde li ?'
 puts 'I stand alone'
 
 	def get_time
